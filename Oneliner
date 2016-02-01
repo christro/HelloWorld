@@ -1,1 +1,4 @@
+#Der PYTHONPATH
 python -c "import sys; print(sys.path)"
+#Anzeige der Module
+python -c "import sys; print(sys.modules)"
